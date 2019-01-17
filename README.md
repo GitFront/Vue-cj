@@ -1,6 +1,6 @@
 构建
 当项目开发完毕，只需要运行一行命令就可以打包你的应用：
-
+第一次使用时，需先npm run build:prod，生成dist文件 再npm run dev
 # 打包正式环境
 npm run build:prod
 
