@@ -1,0 +1,5 @@
+build/*.js
+config/*.js
+build/*.vue
+config/*.vue
+src/assets
